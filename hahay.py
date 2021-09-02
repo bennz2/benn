@@ -2,7 +2,8 @@
 ##UDP FLOODING FOD SAMP | GTPS | WEBSITE
 import socket
 import struct
-import codecs,sys
+import codecs
+import sys
 import threading
 import random
 import time
